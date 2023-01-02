@@ -33,6 +33,15 @@ body {
 	line-height: 1;
 }
 
+.portrait_image_{
+	border-radius: 50%;
+	
+}
+
+a.portrait_link_:hover, a.portrait_link_:visited, a.portrait_link_:link, a.portrait_link_:active {
+	text-decoration: none !important;
+	border-bottom: none;
+}
 
 a.email_text_:hover, a.email_text_:visited, a.email_text_:link, a.email_text_:active {
 	text-decoration: none !important;
