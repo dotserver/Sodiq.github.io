@@ -34,6 +34,11 @@ body {
 }
 
 
+a.email_text_:hover, a.email_text_:visited, a.email_text_:link, a.email_text_:active {
+	text-decoration: none !important;
+    border-bottom: none;
+}
+
 ol, ul {
 	list-style: none;
 }
